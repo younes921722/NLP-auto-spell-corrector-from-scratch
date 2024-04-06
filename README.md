@@ -1,5 +1,5 @@
 # NLP-auto-spell-corrector-from-scratch
-Spell Corrector
+# Spell Corrector
 This repository contains a Python-based spell corrector developed from scratch. The spell corrector is designed specifically for English language and uses a Trie-based approach to efficiently find the closest correct spelling for any given word. It also implements a custom minimum edit distance algorithm where the substitution cost is 1 if the compared letters are adjacent on a QWERTY keyboard.
 
 The English dictionary used in this project is obtained using the Natural Language Toolkit (NLTK), a leading platform for building Python programs to work with human language data.
